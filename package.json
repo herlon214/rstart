@@ -1,6 +1,6 @@
 {
   "name": "rstart",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A NodeJS health-checker",
   "main": "index.js",
   "scripts": {
@@ -25,5 +25,10 @@
   "homepage": "https://github.com/herlon214/rstart",
   "devDependencies": {
     "vows": "^0.8.1"
+  },
+  "dependencies": {
+    "cron": "^1.0.9",
+    "request": "^2.55.0",
+    "winston": "^1.0.0"
   }
 }
