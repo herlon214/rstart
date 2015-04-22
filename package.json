@@ -1,0 +1,29 @@
+{
+  "name": "rstart",
+  "version": "1.0.0",
+  "description": "A NodeJS health-checker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/herlon214/rstart.git"
+  },
+  "keywords": [
+    "health",
+    "checker",
+    "command",
+    "restart",
+    "app"
+  ],
+  "author": "Herlon Aguiar <herlon214@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/herlon214/rstart/issues"
+  },
+  "homepage": "https://github.com/herlon214/rstart",
+  "devDependencies": {
+    "vows": "^0.8.1"
+  }
+}
