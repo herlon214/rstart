@@ -30,3 +30,8 @@ Arguments in order:
 * Url to be checked (ex: http://127.0.0.1:31000/)
 * Command to be executed (ex: ls)
 * Cronjob time command (see also [cron](https://www.npmjs.com/package/cron))
+* 
+
+### TO DO
+* Not check only HTTP ports
+* Send mail if return error on checking (option)
